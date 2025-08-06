@@ -1273,7 +1273,7 @@ body {
     }
 }
 
-@media screen and (max-width:1035px) {
+@media screen and (max-width:640px) {
     .footer .container__footer .container__footer-info .container__info {
         flex-direction: column;
         gap: 20px;
@@ -1296,4 +1296,5 @@ body {
             display: none;
         }
     }
+
 }
